@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnishPati/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AnishPati/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AnishPati/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AnishPati/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AnishPati/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
