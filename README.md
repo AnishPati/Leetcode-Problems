@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AnishPati/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/AnishPati/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AnishPati/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
