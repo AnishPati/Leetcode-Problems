@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnishPati/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/AnishPati/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/AnishPati/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
