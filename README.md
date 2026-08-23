@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/AnishPati/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnishPati/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AnishPati/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -61,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AnishPati/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnishPati/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
@@ -127,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnishPati/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
