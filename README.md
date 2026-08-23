@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AnishPati/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/AnishPati/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishPati/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AnishPati/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnishPati/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnishPati/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AnishPati/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnishPati/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AnishPati/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
