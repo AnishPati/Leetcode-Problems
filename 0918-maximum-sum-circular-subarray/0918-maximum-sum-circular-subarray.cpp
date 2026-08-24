@@ -14,16 +14,17 @@ public:
     int maxSum2(vector<int> &nums){
         int be = nums[0];
         int res = nums[0];
-        int total = 0;
+        int total = nums[0];
         for(int i=1;i<nums.size();i++){
             int v1 = nums[i];
             int v2 = be+nums[i];
             be = min(v1,v2);
             res = min(be,res);
+            total+=nums[i];
         }
-        for(int j=0;j<nums.size();j++){
-            total += nums[j];
-        }
+        // for(int j=0;j<nums.size();j++){
+        //     total += nums[j];
+        // }
         return (total-res);
     }
     int maxSubarraySumCircular(vector<int>& nums) {
