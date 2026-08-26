@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
