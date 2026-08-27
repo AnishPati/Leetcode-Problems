@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishPati/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AnishPati/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AnishPati/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnishPati/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
