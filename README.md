@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AnishPati/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/AnishPati/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/AnishPati/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AnishPati/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
