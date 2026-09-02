@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0904-fruit-into-baskets](https://github.com/AnishPati/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishPati/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AnishPati/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AnishPati/Leetcode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/AnishPati/Leetcode-Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnishPati/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnishPati/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,8 +200,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AnishPati/Leetcode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
